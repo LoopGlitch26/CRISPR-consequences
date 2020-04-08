@@ -1,2 +1,2 @@
 # CRISPR-consequences
-Biotechnology collaboration project about possible side effects and consequences of  CRISPR
+Biotechnology project about possible side effects and consequences of  CRISPR
